@@ -6,3 +6,5 @@ Basic Machine Learning [playlist](https://www.youtube.com/playlist?list=PLOU2XLY
 Learn how to use open source libraries to create ML recipes that can be adapted to a wide range of circumstance.
 
 ### 1. Hello World
+
+### 2. Visualizing a Decision Tree
