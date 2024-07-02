@@ -8,3 +8,5 @@ Learn how to use open source libraries to create ML recipes that can be adapted 
 ### 1. Hello World
 
 ### 2. Visualizing a Decision Tree
+
+### 3. What Makes a Good Feature?
