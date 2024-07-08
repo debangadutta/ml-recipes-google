@@ -16,3 +16,5 @@ Learn how to use open source libraries to create ML recipes that can be adapted 
 ### 5. Writing Our First Classifier
 
 ### 6. How to train an Image Classifier with TensorFlow for Poets
+
+### 7. Classifying Handwritten Digits with TF.Learn
