@@ -18,5 +18,3 @@ Learn how to use open source libraries to create ML recipes that can be adapted 
 ### 6. How to train an Image Classifier with TensorFlow for Poets
 
 ### 7. Classifying Handwritten Digits with TF.Learn
-
-### 8. Let’s Write a Decision Tree Classifier from Scratch
