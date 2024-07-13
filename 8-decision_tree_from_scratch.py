@@ -13,3 +13,7 @@ training_data = [
     ['Red', 1, 'Grape'],
     ['Yellow', 3, 'Lemon'],
 ]
+
+# Column labels.
+# These are used only to print the tree.
+header = ["color", "diameter", "label"]
