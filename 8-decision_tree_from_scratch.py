@@ -16,4 +16,4 @@ training_data = [
 
 # Column labels.
 # These are used only to print the tree.
-header = ["color", "diameter", "label"]
+header = ["color", "diameter", "label"] 
