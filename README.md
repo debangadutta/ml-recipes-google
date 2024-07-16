@@ -20,3 +20,5 @@ Learn how to use open source libraries to create ML recipes that can be adapted 
 ### 7. Classifying Handwritten Digits with TF.Learn
 
 ### 8. Let’s Write a Decision Tree Classifier from Scratch
+
+### 9. Intro to Feature Engineering with TensorFlow
