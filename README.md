@@ -22,3 +22,5 @@ Learn how to use open source libraries to create ML recipes that can be adapted 
 ### 8. Let’s Write a Decision Tree Classifier from Scratch
 
 ### 9. Intro to Feature Engineering with TensorFlow
+
+### 10. Getting Started with Weka
