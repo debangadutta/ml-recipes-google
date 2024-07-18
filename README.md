@@ -1,5 +1,7 @@
 # Machine Learning Recipes with Josh Gordon (Google for Developers)
 
+## [Completed]
+
 ### What is this?
 
 Basic Machine Learning [playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) from Google for Developers.
